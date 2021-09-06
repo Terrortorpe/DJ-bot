@@ -1,2 +1,2 @@
-# DJ-bot
+# DJ bot
 Dium-Disum
